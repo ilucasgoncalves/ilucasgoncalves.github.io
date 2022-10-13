@@ -14,4 +14,4 @@ author_profile: true
 
 
 ## Journal
-<b>Lucas Goncalves</b> and Carlos Busso , " Robust Audiovisual Emotion Recognition: Aligning Modalities, Capturing Temporal Information and Handling Missing Features," IEEE Transactions on Affective Computing, submitted, 2022.
+<b>Lucas Goncalves</b> and Carlos Busso , " Robust Audiovisual Emotion Recognition: Aligning Modalities, Capturing Temporal Information and Handling Missing Features," IEEE Transactions on Affective Computing, Accepted, vol. to appear, 2022.
