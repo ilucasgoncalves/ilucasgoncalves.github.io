@@ -21,6 +21,8 @@ include machine learning, emotion recognition, human computer interaction (HCI) 
 speech processing, and computer vision. 
 
 # News
+* My work "Robust Audiovisual Emotion Recognition: Aligning Modalities, Capturing Temporal Information, and Handling Missing Features" has been accepted to IEEE Transactions on Affective Computing.
+* Presented my work at INTERSPEECH - 2022, Incheon - South Korea, September 2022 -> [Video](https://www.youtube.com/watch?v=x9W2IGJ5VUs&t=2s).
 * My work ["Improving Speech Emotion Recognition Using Self-Supervised Learning with Domain-Specific Audiovisual Tasks"](https://ecs.utdallas.edu/research/researchlabs/msp-lab/publications/Goncalves_2022_2.pdf) was accepted to <b>Interspeech 2022</b>.
 * Presented my work at IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022), Singapore, May 2022.
 * I was selected to receive the Excellence in Education Doctoral Fellowship by the Erik Jonsson School of Engineering and Computer Science.
