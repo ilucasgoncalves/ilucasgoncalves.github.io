@@ -14,15 +14,22 @@ redirect_from:
 Education
 ======
 * Ph.D. in Electrical Engineering -  GPA 4.00/4.00
-  * THE UNIVERSITY OF TEXAS AT DALLAS, May 2024 Expected
+  * THE UNIVERSITY OF TEXAS AT DALLAS, Dec 2024 Expected
+* Masters in Electrical Engineering - Signal Processing -  GPA 4.00/4.00
+  * THE UNIVERSITY OF TEXAS AT DALLAS
 * B.S. in Electrical Engineering - GPA 3.67/4.00
-  * UNIVERSITY OF WISCONSIN – PLATTEVILLE, Dec 2018
+  * UNIVERSITY OF WISCONSIN – PLATTEVILLE
 
 Work experience
 ======
+* June 2023 - Sept 2023 – Present: Applied Scientist Intern
+  * Amazon Web Services - AWS AI Labs
+  * Part of AWS Transcribe Team working on multimodal learning.   
+
 * Sept 2020 – Present: Research Assistant
   * Multimodal Signal Processing (MSP) Lab, Richardson, TX
-  * Currently working on developing machine learning algorithms for studying expressive behavior. My research interests include machine learning, emotion recognition, human computer interaction (HCI), time series modelling, audio and video signal processing.
+  * Currently working on developing machine learning algorithms for studying expressive behavior. My research topics include emotion
+recognition, self-supervised learning, multimodal modelling, handling missing modalities, and audio and video signal processing. Collecting the largest spontaneous speech emotion dataset based on real-world podcast audios.
   * Supervisor: Dr. Carlos Busso
 
 * Jan 2019 – Aug 2020: Electrical Design Engineer
