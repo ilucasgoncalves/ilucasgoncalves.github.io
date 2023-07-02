@@ -15,7 +15,7 @@ working in the [Multimodal Signal Processing (MSP) Laboratory](https://ecs.utdal
 
 # News
 * Released code for our work "Versatile audiovisual learning for handling single and multi modalities in emotion regression and classification tasks" -> [Paper](https://ecs.utdallas.edu/research/researchlabs/msp-lab/publications/Goncalves_2023_2.pdf); [Code](https://github.com/ilucasgoncalves/VAVL)
-* Our work "An Intelligent Infrastructure Toward Large Scale Naturalistic Affective Speech Corpora Collection” was accepted to </b>ACII 2023</b>.
+* Our work "An Intelligent Infrastructure Toward Large Scale Naturalistic Affective Speech Corpora Collection” was accepted to <b>ACII 2023</b>.
 * Our work "The importance of calibration: Rethinking confidence and performance of speech multi-label emotion classifiers," was accepted to <b>Interspeech 2023</b>.
 * My work "Learning Cross-modal Audiovisual Representations with Ladder Networks for Emotion Recognition" was accepted to <b>ICASSP 2023</b>.
 * My work "Robust Audiovisual Emotion Recognition: Aligning Modalities, Capturing Temporal Information, and Handling Missing Features" has been accepted to IEEE Transactions on Affective Computing.
