@@ -22,15 +22,26 @@ Education
 
 Work experience
 ======
-* June 2023 - Sept 2023 – Present: Applied Scientist Intern
-  * Amazon Web Services - AWS AI Labs
-  * Part of AWS Transcribe Team working on multimodal learning.   
 
+* May 2024 - Aug 2024: Applied Scientist Intern
+  * Amazon Web Services - AWS AI Labs
+  * Part of Amazon Q team working on audio-visual to speech translation.
+ 
 * Sept 2020 – Present: Research Assistant
   * Multimodal Signal Processing (MSP) Lab, Richardson, TX
   * Currently working on developing machine learning algorithms for studying expressive behavior. My research topics include emotion
 recognition, self-supervised learning, multimodal modelling, handling missing modalities, and audio and video signal processing. Collecting the largest spontaneous speech emotion dataset based on real-world podcast audios.
   * Supervisor: Dr. Carlos Busso
+
+* Feb 2024 – May 2024: Research Intern
+  * Openstream.ai
+  * Developed emotion recognition systems with 20% improvement in recognition performance for conversational AI avatars to
+enhance user interaction and engagement.
+  * Collaborated with a multidisciplinary team to design and refine generative AI avatars for conversational interfaces.
+
+* June 2023 - Oct 2023: Applied Scientist Intern
+  * Amazon Web Services - AWS AI Labs
+  * Part of AWS Transcribe Team working on multimodal learning.   
 
 * Jan 2019 – Aug 2020: Electrical Design Engineer
   * Seagrave Fire Apparatus LLC, Clintonville, WI
@@ -45,8 +56,6 @@ Skills
 ======
 * <b>Languages</b>
   * Python, MATLAB, Verilog, VHDL, C++, HCS12
-* <b>System programming</b>
-  * Linux, Windows, macOS, AS/400
 * <b>Frameworks & Tools</b>
   * Pytorch, TensorFlow, Kaldi, OpenCV, SolidWorks, AutoCAD, Simulink, LabVIEW, IQAN
 
